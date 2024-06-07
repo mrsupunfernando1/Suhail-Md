@@ -1,15 +1,15 @@
 {
-  "name": "suhail-md@1.3.4",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
+  "name": "queen-tharu-md@1.1.0",
+  "description": "I am Queen-Tharu-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://youtube.com/@darkshadow_modz",
   "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "keywords": ["whatsappbot", "QueenTharuMd", "Queen Tharu Md bot", "Queen-Tharu-Md", "QueenTharuMdWhatsaooBot", "QueenTharuWaBot","QueenTharuMD","Queen Tharu Md Whatsapp Bot","multi device"],
+  "success_url": "/Tharu/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "Mr.Supun Fernando",
       "required" :true
     },   
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "🧚‍♂️ 𝐐𝐔𝐄𝐄𝐍 𝐓𝐇𝜟𝐑𝐔 𝐌𝐃 𝐁𝚯𝐓 🧚‍♂️"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -95,7 +95,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "94718461889"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -123,7 +123,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "QUEEN THARU Md",
       "required": false 
     },
     "PACK_AUTHER": {
