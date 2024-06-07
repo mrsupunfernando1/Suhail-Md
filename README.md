@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center">🧚‍♂️ 𝐐𝐔𝐄𝐄𝐍 𝐓𝐇𝜟𝐑𝐔 𝐌𝐃 𝐁𝚯𝐓 🧚‍♂️</h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -8,8 +8,8 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+  <a href="https://youtube.com/@darkshadow_modz">
+    <img alt="QUEEN-THARU-Md" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
     
@@ -25,12 +25,12 @@
 
 
 
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="QUEEN_THARU_Md is free to use" href="https://youtube.com/@darkshadow_modz" target="_blank">
+    <img alt="Dark Shadow modz Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="DarkShadowModzInfo :: Visitor's Count" /></p>
 
 <p align="center">
 
@@ -53,7 +53,7 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> QUEEN THARU MD whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>Suhail-Md</b></a> Support Deploy On...
+  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>QUEEN-THARU-Md</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -145,10 +145,10 @@
    
 ## 
 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *QUEEN-THARU -Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use QUEEN-THARU-Md at your own risk by keeping this warning in mind.*
 
 
 
-## NOTE: SUHAIL-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
+## NOTE: QUEEN-THARU-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
