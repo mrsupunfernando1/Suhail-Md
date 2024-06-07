@@ -3,7 +3,7 @@
 //                                                                                                      //
 //                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
 //                                                                                                      // 
-//                                         Ｖ：1．2．8                                                   // 
+//                                         Ｖ：1.1.0                                                   // 
 //                                                                                                      // 
 //            ███████╗██╗   ██╗██╗  ██╗ █████╗ ██╗██╗         ███╗   ███╗██████╗                        //
 //            ██╔════╝██║   ██║██║  ██║██╔══██╗██║██║         ████╗ ████║██╔══██╗                       //
@@ -16,20 +16,20 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
-   * @version 1.2.8
+   * @project_name : QUEEN-THARU-MD
+   * @author : DARK SHADOW MODZ
+   * @youtube : https://youtube.com/@darkshadow_modz
+   * @description : Queen-Tharu-Md ,A Multi-functional whatsapp user bot.
+   * @version 1.1.0
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By Dark Shadow Modz.
+   * © 2024 Queen-Tharu-Md.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let Queen_Tharu_Md = "Queen Tharu MD Whatsapp bot md"
 
 
 
